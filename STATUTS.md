@@ -95,6 +95,7 @@ Dans la convocation à l’Assemblée Générale, le Conseil d’Administration 
   - Voie de Presse
   - Ou Lettre Recommandée
   - Ou Lettre Simple
+  - Ou Courrier électronique
 
 Son bureau est celui du Conseil d’Administration.
 

@@ -89,7 +89,7 @@ Titre 4 : Assemblées Générales
 
 L’Assemblée Générale de l’association est composée de tous les membres prévus au premier alinéa de l’Article 2, à jour de leurs cotisations et âgés de seize ans au moins au jour de l’Assemblée.
 
-Elle se réunit une fois par an, au cours du premier trimestre de l’année civile, et chaque fois qu’elle est convoquée par le Conseil ou sur la demande du quart au moins des membres actifs. Son ordre du jour est fixé par le Conseil d’Administration.
+Elle se réunit une fois par an, au cours du dernier trimestre de l’année civile, et chaque fois qu’elle est convoquée par le Conseil ou sur la demande du quart au moins des membres actifs. Son ordre du jour est fixé par le Conseil d’Administration.
 
 Dans la convocation à l’Assemblée Générale, le Conseil d’Administration précise l’ordre du jour complet. La convocation doit être faite par :
   - Voie de Presse

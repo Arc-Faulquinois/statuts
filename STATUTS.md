@@ -10,9 +10,9 @@ L’association dite *l’Arc Faulquinois* a pour objet la pratique de l’éduc
 
 Sa durée est illimitée.
 
-Elle a son siège social au Centre Social Bas-Steinbesch, 57380 FAULQUEMONT.
+Elle a son siège social au Centre Social du Bas-Steinbesch, 57380 Faulquemont.
 
-Elle a été déclarée au Tribunal d’Instance de BOULAY (Moselle).
+Elle a été déclarée au Tribunal d’Instance de Boulay (Moselle).
 
 L’association s’interdit toute manifestation ou toute discussion présentant un caractère politique ou confessionnel.
 
@@ -26,7 +26,7 @@ Le montant du droit d’entrée et le taux de la cotisation annuelle sont fixés
 
 Le titre de membre d’Honneur peut être décerné par le Conseil d’Administration aux personnes physiques ou morales qui rendent ou qui ont rendu des services signalés à l’Association. Ce titre confère aux personnes qui l’ont obtenu le droit de faire partie de l’association sans être tenues de payer ni droit d’entrée, ni cotisation annuelle.
 
-Est membre Bénévole toute personne qui s’est acquitté du droit d’entrée et a réglé la cotisation annuelle et qui participe activement à la vie du club, à ce titre elle bénéficiera d’une assurance contractée par le Club.
+Est membre Bénévole toute personne qui s’est acquittée du droit d’entrée et a réglé la cotisation annuelle et qui participe activement à la vie du club, à ce titre, elle bénéficiera d’une assurance contractée par l'association.
 
 ### Article 3 : Démission
 
@@ -42,27 +42,29 @@ Titre 2 : Affiliations
 
 ### Article 4 : F.F.T.A.
 
-L’association est affiliée à la Fédération Française de Tir à l’Arc (F.F.T.A.) dont le siège est à ROSNY-SOUS-BOIS (Seine-Saint-Denis). Elle s’engage :
-  1. A se conformer aux Statuts et Règlements de la F.F.T.A. ainsi qu’à ceux des Comités Régionaux et Départementaux dont elle dépend administrativement et qui relèvent de la même Fédération,
-  2. A se soumettre aux sanctions disciplinaires qui lui seraient infligées par application des dits Statuts et Règlements.
+L’association est affiliée à la Fédération Française de Tir à l’Arc (F.F.T.A.) dont le siège est à Rosny-Sous-Bois (Seine-Saint-Denis). Elle s’engage :
+  1. À se conformer aux Statuts et Règlements de la F.F.T.A. ainsi qu’à ceux des Comités Régionaux et Départementaux dont elle dépend administrativement et qui relèvent de la même Fédération,
+  2. À se soumettre aux sanctions disciplinaires qui lui seraient infligées par application des dits Statuts et Règlements.
 
 Titre 3 : Administration et fonctionnement
 ------------------------------------------
 
 ### Article 5 : Élection du conseil
 
-Le Conseil d’Administration de l’association est composée de six membres au moins élus au scrutin secret pour un an par l’Assemblée Générale des adhérents lecteurs prévus à l’alinéa suivant. La composition du Conseil d’Administration doit refléter celle de l’Assemblée Générale.
+Le Conseil d’Administration de l’association est composé de six membres au moins, élus au scrutin secret pour un an par l’Assemblée Générale des adhérents lecteurs prévus à l’alinéa suivant. La composition du Conseil d’Administration doit refléter celle de l’Assemblée Générale.
 
 Est électeur tout membre actif âgé de seize ans au moins au jour de l’élection ayant adhéré à l’association depuis plus de six mois et à jour de ses cotisations.
 
 Le vote par procuration est autorisé mais le vote par correspondance n’est pas admis.
 
-Est éligible au Conseil d’Administration toute personne âgée de dix-huit ans au moins au jour de l’élection, membre de l’association depuis plus d’un an et à jour de ses cotisations. Elle doit jouir de ses droits civiques et politiques.
+Est éligible au Conseil d’Administration toute personne âgée de seize ans au moins au jour de l’élection, membre de l’association depuis plus d’un an et à jour de ses cotisations. Elle doit jouir de ses droits civiques et politiques.
 
 Les membres bénévoles peuvent prétendre aux fonctions de vérificateurs aux comptes et assesseurs.
 Les membres sortants sont éligibles.
 
 Le Conseil d’Administration choisit parmi ses membres et au scrutin secret son bureau comprenant : le Président, le ou les Vice-Président(s) si nécessaire, le Secrétaire, le Secrétaire-Adjoint, le Trésorier et le Trésorier-Adjoint de l’association.
+
+Est éligible aux postes de Président et de Trésorier, tout membre du Conseil d'Administration âgé de dix-huit ans au moins au jour de l'élection.
 
 Les différentes charges des membres du Conseil d’Administration sont précisées dans le règlement intérieur qui doit être préparé par le Conseil d’Administration et adopté par l’Assemblée Générale.
 
@@ -87,12 +89,13 @@ Titre 4 : Assemblées Générales
 
 L’Assemblée Générale de l’association est composée de tous les membres prévus au premier alinéa de l’Article 2, à jour de leurs cotisations et âgés de seize ans au moins au jour de l’Assemblée.
 
-Elle se réunit une fois par an, au cours du premier trimestre de l’année civile, et chaque fois qu’elle est convoquée par le Conseil ou sur la demande du quart au moins des membres actifs. Son ordre du jour est fixé par le Conseil d’Administration.
+Elle se réunit une fois par an, au cours du dernier trimestre de l’année civile, et chaque fois qu’elle est convoquée par le Conseil ou sur la demande du quart au moins des membres actifs. Son ordre du jour est fixé par le Conseil d’Administration.
 
 Dans la convocation à l’Assemblée Générale, le Conseil d’Administration précise l’ordre du jour complet. La convocation doit être faite par :
   - Voie de Presse
   - Ou Lettre Recommandée
   - Ou Lettre Simple
+  - Ou Courrier électronique
 
 Son bureau est celui du Conseil d’Administration.
 
@@ -165,7 +168,7 @@ En cas de dissolution, l’Assemblée Générale désigne un ou plusieurs Commis
 
 Elle attribue l’actif net, conformément à la Loi, à une ou plusieurs associations poursuivant le même objet.
 
-En n’aucun cas, les membres de l’Association ne peuvent se voir attribuer, en dehors de la reprise de leurs apports, une part quelconque des biens de l’Association.
+En aucun cas, les membres de l’Association ne peuvent se voir attribuer, en dehors de la reprise de leurs apports, une part quelconque des biens de l’Association.
 
 Sont toutefois exceptés des dispositions du présent article, les biens affectés par l’association à une activité étrangère au sport. Ces biens sont, le cas échéant, liquidés séparément dans les conditions fixées par l’Assemblée Générale.
 
@@ -184,6 +187,6 @@ Le Président doit effectuer, à la Préfecture, les déclarations prévues à l
 
 Les Statuts, les Règlements Intérieurs, ainsi que les modifications qui peuvent y être apportées doivent être communiqués au Service Départemental de la Jeunesse et des Sports dans le mois qui suit leur adoption en Assemblée Générale, ainsi qu’à la F.F.T.A., par l’intermédiaire de la Ligue Régionale.
 
-> Les présents Statuts, signés par sept membres au moins, ont été adoptés en Assemblée Générale des adhérents de l’association dite *l’Arc Faulquinois* qui s’est tenue à Faulquemont (Moselle) le 15 Novembre 2007 sous la présidence de Madame Marie-Christine BEAU, assistée de :
+> Les présents Statuts, signés par sept membres au moins, ont été adoptés en Assemblée Générale des adhérents de l’association dite *l’Arc Faulquinois* qui s’est tenue à Faulquemont (Moselle) le 14 Novembre 2015 sous la présidence de Monsieur Julien Blatecky.
 
 **Signatures :**

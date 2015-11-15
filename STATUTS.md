@@ -57,12 +57,14 @@ Est électeur tout membre actif âgé de seize ans au moins au jour de l’élec
 
 Le vote par procuration est autorisé mais le vote par correspondance n’est pas admis.
 
-Est éligible au Conseil d’Administration toute personne âgée de dix-huit ans au moins au jour de l’élection, membre de l’association depuis plus d’un an et à jour de ses cotisations. Elle doit jouir de ses droits civiques et politiques.
+Est éligible au Conseil d’Administration toute personne âgée de seize ans au moins au jour de l’élection, membre de l’association depuis plus d’un an et à jour de ses cotisations. Elle doit jouir de ses droits civiques et politiques.
 
 Les membres bénévoles peuvent prétendre aux fonctions de vérificateurs aux comptes et assesseurs.
 Les membres sortants sont éligibles.
 
 Le Conseil d’Administration choisit parmi ses membres et au scrutin secret son bureau comprenant : le Président, le ou les Vice-Président(s) si nécessaire, le Secrétaire, le Secrétaire-Adjoint, le Trésorier et le Trésorier-Adjoint de l’association.
+
+Est éligible aux postes de Président et de Trésorier, tout membre du Conseil d'Administration âgé de dix-huit ans au moins au jour de l'élection.
 
 Les différentes charges des membres du Conseil d’Administration sont précisées dans le règlement intérieur qui doit être préparé par le Conseil d’Administration et adopté par l’Assemblée Générale.
 

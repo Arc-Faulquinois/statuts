@@ -187,6 +187,6 @@ Le Président doit effectuer, à la Préfecture, les déclarations prévues à l
 
 Les Statuts, les Règlements Intérieurs, ainsi que les modifications qui peuvent y être apportées doivent être communiqués au Service Départemental de la Jeunesse et des Sports dans le mois qui suit leur adoption en Assemblée Générale, ainsi qu’à la F.F.T.A., par l’intermédiaire de la Ligue Régionale.
 
-> Les présents Statuts, signés par sept membres au moins, ont été adoptés en Assemblée Générale des adhérents de l’association dite *l’Arc Faulquinois* qui s’est tenue à Faulquemont (Moselle) le 15 Novembre 2007 sous la présidence de Madame Marie-Christine BEAU, assistée de :
+> Les présents Statuts, signés par sept membres au moins, ont été adoptés en Assemblée Générale des adhérents de l’association dite *l’Arc Faulquinois* qui s’est tenue à Faulquemont (Moselle) le 14 Novembre 2015 sous la présidence de Monsieur Julien Blatecky.
 
 **Signatures :**
